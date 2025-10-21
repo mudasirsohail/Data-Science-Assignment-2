@@ -1,0 +1,11 @@
+﻿Order ID,Customer Name,Product Category,Quantity,Unit Price ($),Order Date,Delivery Days
+1,Hamza,Electronics,2,300,01/10/2024,5
+2,Ali,Clothing,5,40,03/10/2024,3
+3,Ahmed,Home & Garden,1,120,05/10/2024,7
+4,Qurban,Books,3,15,07/10/2024,2
+5,Mudasir,Electronics,1,450,09/10/2024,6
+6,Mussawir,Clothing,4,35,10/10/2024,4
+7,Adnan,Sports,2,60,12/10/2024,5
+8,Aadil,Beauty,6,25,15/10/2024,3
+9,Sammad,Electronics,3,280,17/10/2024,5
+10,Hasnain,Books,2,20,20/10/2024,2
